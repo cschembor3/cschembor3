@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
+
+My name's Connor, welcome to my profile!
 
 <!--
-**cschembor3/cschembor3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
